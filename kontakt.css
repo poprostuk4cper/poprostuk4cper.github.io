@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+#srodekkontakt {
+    float: left;
+    width: 100%;
+    margin-bottom: 50px;
+
+}
+#tytul {
+    margin-bottom: 14px;
+    width: 100%;
+    text-align: center;
+}
+#kontaktinfo {
+ width: 55%;
+ float: left;
+ padding-left: 50px;
+ padding-bottom: 50px;
+ line-height: 1.5;
+}
+#formularz {
+width: 45%;
+float: left;
+}
+#mapa {
+    width: 50%;
+    padding-left: 50px;
+}
+.pole {
+    font: inherit; 
+    border: 1px solid lightgray; 
+    border-radius: 3px;
+     margin: 3px 0 10px 0; 
+     padding: 3px 0;
+}
+textarea.pole {
+    width: 500px; 
+    height: 100px;
+}
+#wyslij {
+    background: lightgrey;
+     border: 1px solid black;
+      line-height: 32px; 
+      font-size: 15px;
+      padding-left: 25px;
+      padding-right: 25px;
+        border-radius: 4px;
+    }
+textarea {
+    resize: none;
+}
+#wyslij:hover {
+    background-color: white;
+}

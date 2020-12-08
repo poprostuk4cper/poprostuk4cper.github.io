@@ -1,0 +1,66 @@
+#tytul {
+    margin-bottom: 14px;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+#srodekprojekty {
+    float: left;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.budynek {
+    float: left;
+    text-align: center;
+    position: relative;
+}
+.budynek1 {
+    text-align: left;
+    float: left;
+    width: 50%;
+    width: 940px; 
+    height: 529px;
+}
+.text1 {
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    transform: translate(-40%, -20%);
+    text-align: center;
+}
+.text {
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+    text-align: center;
+    line-height: 1.5;
+}
+.budynek:hover .text {
+opacity: 1;
+background-color: white;
+padding: 10px;
+}
+.budynek:hover img {
+filter: blur(2px);
+transition: 0.3s;
+    }
+.text2 {
+    left: 50%;
+    top: 30%;
+    position: absolute;
+    transform: translate(-40%, -20%);
+    text-align: center;
+}
+.budynek2 {
+    text-align: right;
+    float: right;
+    width: 50%;
+    width: 940px; 
+    height: 529px;
+}
+hr {
+    border: 1px solid lightgray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    float: left;
+    width: 100%;
+}

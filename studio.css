@@ -1,0 +1,98 @@
+*{
+border-collapse: collapse;
+table-layout: fixed;
+box-sizing: border-box;
+}
+#page {
+    background-color: white;
+}
+#top {
+    background-color: lightpink;
+    width: 100%;
+    height: 100%;
+    height: auto;
+    float: right;
+    background-color: #434b77;
+    text-align: right;
+}
+
+
+#logo {
+    float: left;
+    background-color: gold;
+}
+#logo:hover {
+    background-color: khaki;
+}
+#logo:active {
+    background-color: khaki;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #434b77;
+    display: inline-block;
+}
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 40px 40px 40px 40px;
+    text-decoration: none;
+    font-size: 18px;
+}
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.topnav a.active {
+    color: white;
+}
+#tlo {
+    text-align: center;
+}
+#srodek
+    {
+        display: flex;
+        font-size: 17px;
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+#zakres {
+    flex: 50%;
+    margin: 1% 10% 2% 10%;
+    line-height: 1.5;
+}
+#aktualnosci {
+    flex: 50%;
+    margin: 1% 10% 2% 10%;
+    line-height: 1.5;
+}
+h1, h2 {
+    font-size: 30px;
+}
+
+  #Copyright {
+      background-color: #434b77;
+      color: white;
+      padding-top: 46px;
+    float: left;
+    width: 100%;
+    padding-bottom: 40px;
+  }
+#ccopyright {
+text-align: center;
+font-size: 12px;
+}
+#obrazektlo {
+    width: 100%;
+    height: 100%;
+}
+

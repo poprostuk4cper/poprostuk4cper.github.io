@@ -1,0 +1,30 @@
+#tytul {
+    margin-bottom: 5px;
+    width: 100%;
+    text-align: center;
+}
+#srodekoferta {
+    float: left;
+    width: 100%;
+    margin-bottom: 50px;
+
+}
+#ofertainfo {
+    float: left;
+    padding: 30px 30px 100px 50px;
+    line-height: 2;
+    width: 50%;
+
+}
+#zdjecieoofercie {
+    margin-top: 10px;
+    text-align: center;
+
+}
+#zdjecieooferciee {
+    width: 333px;
+    height: 466px;
+}
+#Copyright {
+    margin-top: 200px;
+}
