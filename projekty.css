@@ -18,8 +18,8 @@
     text-align: left;
     float: left;
     width: 50%;
-    width: 940px; 
-    height: 515px;
+    width: 920px; 
+    height: 510px;
 }
 .text1 {
     position: absolute;
@@ -54,8 +54,8 @@ transition: 0.3s;
     text-align: right;
     float: right;
     width: 50%;
-    width: 940px; 
-    height: 515px;
+    width: 920px; 
+    height: 510px;
 }
 hr {
     border: 1px solid lightgray;
