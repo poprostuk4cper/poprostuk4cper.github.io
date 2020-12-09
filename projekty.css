@@ -19,7 +19,7 @@
     float: left;
     width: 50%;
     width: 940px; 
-    height: 529px;
+    height: 515px;
 }
 .text1 {
     position: absolute;
@@ -55,7 +55,7 @@ transition: 0.3s;
     float: right;
     width: 50%;
     width: 940px; 
-    height: 529px;
+    height: 515px;
 }
 hr {
     border: 1px solid lightgray;
